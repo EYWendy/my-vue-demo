@@ -44,7 +44,7 @@ README.md      注释文件
 vite.config.js Vue配置文件
 ```
 
-### 学习来源
+### 学习来源参考
 ```sh
 https://www.bilibili.com/video/BV1uypMexEig/?spm_id_from=333.999.0.0&vd_source=87e483c7c018da70d1d73f7d0fbeac6e
 
