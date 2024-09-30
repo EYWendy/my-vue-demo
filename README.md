@@ -34,7 +34,7 @@ npm run dev
 npm run build
 ```
 
-``
+```sh
 volta：https://volta.jikun.dev/guide/getting-start.html
 安裝volta，用volta管理node版本
 安裝node版本：
