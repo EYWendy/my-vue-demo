@@ -1,4 +1,4 @@
-# vue-demo
+![image](https://github.com/user-attachments/assets/a9074a87-a094-4ec1-bdec-92d5bc0847f1)# vue-demo
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -13,7 +13,9 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 ```sh
-npm init vue@latest 创建项目
+创建项目統一命令
+npm init vue@latest
+npm create vue@latest
 ```
 
 ```sh
@@ -30,6 +32,16 @@ npm run dev
 
 ```sh
 npm run build
+```
+
+``
+volta：https://volta.jikun.dev/guide/getting-start.html
+安裝volta，用volta管理node版本
+安裝node版本：
+volta install node@20.17.0
+
+項目指定node 版本：
+volta pin node@20.17.0
 ```
 
 ```sh
