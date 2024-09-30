@@ -56,11 +56,13 @@ https://www.bilibili.com/video/BV1uypMexEig/?spm_id_from=333.999.0.0&vd_source=8
 
 ## 其它
 
-### Volta
+### 用volta管理node版本
 
 ```sh
-volta：https://volta.jikun.dev/guide/getting-start.html
+
 安裝volta，用volta管理node版本
+volta：https://volta.jikun.dev/guide/getting-start.html
+
 安裝node版本：
 volta install node@20.17.0
 
